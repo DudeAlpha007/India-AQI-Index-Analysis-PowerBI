@@ -71,7 +71,7 @@ Using **Power BI**, raw environmental data is transformed into an interactive, i
 ---
 
 ## 📌 Dashboard Preview
-![AQI Dashboard](<img width="1308" height="746" alt="AQI" src="https://github.com/user-attachments/assets/63e98389-00a2-4100-9071-c886e67ac84a" />
+![AQI Dashboard](!<img width="1308" height="746" alt="AQI" src="https://github.com/user-attachments/assets/63e98389-00a2-4100-9071-c886e67ac84a" />
 )
 
 ---
